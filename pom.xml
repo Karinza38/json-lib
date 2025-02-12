@@ -5,7 +5,7 @@
     <groupId>org.jenkins-ci</groupId>
     <artifactId>jenkins</artifactId>
     <version>1.126</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.kohsuke.stapler</groupId>
@@ -149,7 +149,7 @@
     <dependency>
       <groupId>commons-beanutils</groupId>
       <artifactId>commons-beanutils</artifactId>
-      <version>1.9.4</version>
+      <version>1.10.0</version>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
